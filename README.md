@@ -5,7 +5,7 @@ using NodeJs and MongoDB. It is an attempt to learn NodeJS and MongoDB by trying
 the Backend REST APIs using NodeJS. The same set of features are also implemented using
 Spring Boot as an attempt to learn Spring Boot.
 
-The Spring Boot based backend of this project can be found [here]().
+The Spring Boot based backend of this project can be found [here](https://github.com/AshwinKAshok/learning-management-backend-spring).
 
 # What it does?
 
@@ -27,8 +27,8 @@ However, due to the consistency of API structure across 2 different
  
 ### Tech stacks used:
 * ### Frontend:
-    * React and redux based frontend can be found [here]().
-    * AngularJS based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-webdev-angular).
+    * React and redux based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-frontend-react).
+    * AngularJS based frontend can be found [here](https://github.com/AshwinKAshok/learning-management-frontend-angular).
 * ### Backend:
     * Backend using Spring boot and AWS RDS for database can be found [here](https://github.com/AshwinKAshok/learning-management-backend-spring).
-    * Backend using NodeJS and MongoDB for database can be found [here](https://github.com/AshwinKAshok/learning-management-backend-node).
+    * Backend using NodeJS and MongoDB for database is this repo.
